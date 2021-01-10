@@ -1,5 +1,7 @@
 # Apache Airflow Code Samples
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z237B0Q)
+
 Short guide: How to use PostgresOperator in Apache Airflow?
     <https://medium.com/@xnuinside/short-guide-how-to-use-postgresoperator-in-apache-airflow-ca78d35fb435>
     code samples in postgres_operator_example/
